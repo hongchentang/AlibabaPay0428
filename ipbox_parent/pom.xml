@@ -75,7 +75,7 @@
 		<joda-time.version>2.2</joda-time.version>
 		<joda-time-jsptags.version>1.1.1</joda-time-jsptags.version>
 		<dozer.version>5.4.0</dozer.version>
-		<httpclient.version>4.3.3</httpclient.version>
+		<httpclient.version>4.5.13</httpclient.version>
 		<freemarker.version>2.3.20</freemarker.version>
 		<ant.version>1.9.3</ant.version>
 		<activemq.version>5.6.0</activemq.version>
